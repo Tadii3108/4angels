@@ -1,2 +1,22 @@
-
 /** ADD YOUR AWESOME CODES HERE **/
+
+.logo {
+    width: 100px;
+}
+
+img.img-fluid {
+    width: 352.05px;
+    height: 264.03px
+}
+
+ul {
+    text-transform: uppercase;
+}
+
+h1 .m-b-20 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+
+li .fas fa-address-card {
+
+}
